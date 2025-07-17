@@ -1,4 +1,4 @@
-# Credit score prediction
+# Credit Score Prediction
 
 Goal: This project focuses on building a model to classify credit scores into three categories: 0 (poor), 1 (fair), and 2 (good). Using features like financial behavior and credit history, the goal is to predict creditworthiness accurately. 
 
